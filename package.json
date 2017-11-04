@@ -1,0 +1,20 @@
+{
+  "name": "trgbot",
+  "version": "1.0.0",
+  "description": "A simple bot, easy to use, and basic commands are intergrated",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRGReal/TRG-Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "The Random Gamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRGReal/TRG-Bot/issues"
+  },
+  "homepage": "https://www.trgbot.xyz/"
+}
